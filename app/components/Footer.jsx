@@ -12,7 +12,6 @@ const Footer = ({ isDarkMode }) => {
                     <Image src={isDarkMode ? assets.mail_icon_dark : assets.mail_icon} alt="" className="w-6" />
                     kabi.chaudhary00@gmail.com
                 </div>
-                {/* <p> Kabi Chaudhary. All rights reserved.</p> */}
                 <ul className="flex items-center gap-10 justify-center mt-4 sm:mt-0">
                     <li><Link target="_blank" href="https://github.com/kabichaudhary">Guthub</Link></li>
                     <li><Link target="_blank" href="https://www.linkedin.com/in/kabi-chaudhary-2ab350336/">Linkedin</Link></li>

@@ -29,7 +29,7 @@ const Services = () => {
                 whileInView={{ opacity: 1 }}
                 transition={{ duration: 0.7, delay: 0.5 }}
                 className="text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo ">
-                I am an entry-level frontend developer of professional expertise in the field.   Throughout my career, I have had the privilege of collaborating with prestigious organisations, contributing to their success and growth.
+                I am frontend developer of professional expertise in the field.   Throughout my career, I have had the privilege of collaborating with prestigious organisations, contributing to their success and growth.
             </motion.p>
 
             <motion.div
